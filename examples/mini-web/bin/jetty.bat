@@ -1,4 +1,5 @@
 @echo off
+echo [INFO] jetty-plugin test
 echo [INFO] Use maven jetty-plugin run the project.
 
 cd %~dp0
